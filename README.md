@@ -1,4 +1,4 @@
-# Consumer behavior Report on consumption of Thai agricultural products in the Netherlands (2022)
+# Consumer behavior report on consumption of Thai agricultural products in the Netherlands (2022)
 
 During the past few years, consumer behaviors have changed drastically because of the COVID-19 pandemic. A series of social-distancing measures aiming to mitigate the spread of the virus forced consumers to adopt new habits and lifestyle choices that influence how they live, work, and shop for their needs. These changes have prompted businesses to align their strategies to meet the consumer’s expectations.
 
