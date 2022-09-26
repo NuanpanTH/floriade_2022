@@ -11,3 +11,5 @@ Questionnaires were used to obtain relevant information from respondents at the 
 The study was examined using descriptive statistics such as frequency and mean. The relationship between the demographic factors and the purchasing behavior of the above-mentioned products was analyzed using a chi-square test of independence. 
 
 In addition, due to the limited number of questions, the Apriori algorithm  was used to generate association rules showing correlations found from the most frequent product combinations. This technique allows us to identify the products customers regularly purchase together. The findings of this study are beneficial for Thai businesses to segment the target market and leverage this trait to expand their marketing strategies and strengthen their product positions. 
+
+The full report is available for download as a pdf file.
